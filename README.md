@@ -129,7 +129,7 @@ To generate best_model.pt run the whole training notebook.
 Open the notebook:
 
 ```
-banglavqafinal2.ipynb
+banglavqafinal3.ipynb
 ```
 
 Recommended:
